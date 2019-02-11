@@ -7,7 +7,7 @@ clrscr();
 scanf("%d",&n);
 for(i=1;i<=5;i++)
 {
-m=i*5;
+m=i*n;
 printf("%d ",m);
 }
 getch();
